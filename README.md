@@ -1,7 +1,7 @@
 ### # Hi there👋! 😇  &nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=rajputmukesh748" alt="Mukesh Kumar Rajput" /> 
 
 - 👨‍💻 ***#Self-Motivated*** Developer.
-- 📱 Mobile app builder (Android, iOS, Flutter, React Native, Kotlin/Compose).
+- 📱 Mobile app developer (Android, iOS, Flutter, React Native, Kotlin/Compose).
 - 😍 Loves cross-platform tech and trying new things ❤️
 - 💻 Backend Developer (Node JS, KTOR)
 - 👨‍💻 DataBase (SQL, Mongo DB)
