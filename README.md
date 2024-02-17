@@ -21,8 +21,8 @@
 
 <p align="left">I am a passionate and experienced software developer with 5+ years of expertise in building engaging and robust applications. I possess a strong foundation in various programming languages and frameworks, including:</p>
 
-* **Android Development:** Kotlin, Java
-* **Cross-Platform Development:** Flutter, Dart
+* **Android Development:** Kotlin, Java, Jetpack Compose
+* **Cross-Platform Development:** Flutter, Dart, Kotlin Multiplatform, Compose Multiplatform
 * **Web Development:** JavaScript, TypeScript, React.js, HTML, CSS
 * **Version Control:** Git, GitHub, GitLab, Bitbucket
 <br>
