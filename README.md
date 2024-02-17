@@ -19,7 +19,7 @@
 <br>
 <br>
 
-<p align="center">I am a passionate and experienced software developer with 5+ years of expertise in building engaging and robust applications. I possess a strong foundation in various programming languages and frameworks, including:</p>
+<p align="left">I am a passionate and experienced software developer with 5+ years of expertise in building engaging and robust applications. I possess a strong foundation in various programming languages and frameworks, including:</p>
 
 * **Android Development:** Kotlin, Java
 * **Cross-Platform Development:** Flutter, Dart
