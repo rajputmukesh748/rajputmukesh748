@@ -34,10 +34,10 @@ I am a passionate and experienced software developer with 5+ years of expertise 
 
 
 <h3>My Activity</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajputmukesh748&" alt="Dev No Limit" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajputmukesh748&" alt="Mukesh Rajput" /></p>
 
 
 <h3>Most Used Languages</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajputmukesh748&layout=compact" alt="Dev No Limit" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajputmukesh748&layout=compact" alt="Mukesh Rajput" /></p>
 
 <br>
