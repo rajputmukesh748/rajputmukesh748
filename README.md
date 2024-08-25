@@ -44,18 +44,18 @@
 
 <br>
 <h3>My Activity</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajputmukesh748&" alt="Mukesh Rajput" /></p>
+<p><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajputmukesh748&" alt="Mukesh Rajput" /></p>
 
 
 <h3>Most Used Languages</h3>
-<a href="https://github.com/drknzz"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajputmukesh748&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+<a href="https://github.com/rajputmukesh748"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajputmukesh748&theme=dark&hide=html,css,cmake&layout=compact&langs_count=6&bg_color=101010&hide_title=true"></a>
 
 
 <h3>Leet Code</h3>
-<a href="https://leetcode.com/rajputmukesh748/"><img width="48%" src="https://leetcode.card.workers.dev/rajputmukesh748?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+<a href="https://leetcode.com/rajputmukesh748/"><img width="100%" src="https://leetcode.card.workers.dev/rajputmukesh748?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
 
 
 <h3>My github stats</h3>
-<p align="start"> <img src="https://github-readme-stats.vercel.app/api?username=rajputmukesh748&count_private=true&show_icons=true&theme=radical" /> </p>
+<p align="start"> <img width="100%" src="https://github-readme-stats.vercel.app/api?username=rajputmukesh748&count_private=true&show_icons=true&theme=radical" /> </p>
 
 <br>
