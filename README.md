@@ -1,6 +1,8 @@
 # 💫 About Me:  [![](https://visitcount.itsvg.in/api?id=rajputmukesh748&icon=0&color=0)](https://visitcount.itsvg.in)
 👋 Hi, I'm Mukesh Kumar!<br><br>🔭 I’m currently working as an Android developer with MVI, Clean Architecture, MVVM, MVP, and MVC architectures.<br>👯 I’m looking to collaborate on Android, SwiftUI, and Node.js projects.<br>🤝 I’m looking for help with backend optimization in Node.js.<br>🌱 I’m currently learning SwiftUI, Angular, and Node.js.<br>💬 Ask me about Android architectures, design patterns, and Kotlin!<br>⚡ Fun fact: I love exploring new tech and building efficient solutions!
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rajputmukesh748&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100007260767039) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rajput_saab_97) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mukesh-kumar-701a24156) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rajputmukesh748) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14770070) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rajputmukesh748) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCQUbJH3RtJeIIjN8kuGBg_A) 
@@ -12,9 +14,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=rajputmukesh748&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rajputmukesh748&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajputmukesh748&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rajputmukesh748&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rajputmukesh748&limit=5&theme=dark&combine_all_yearly_contributions=true)
