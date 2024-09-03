@@ -1,61 +1,22 @@
-<h1 align="center">Hi 👋, I'm Mukesh Kumar Rajput</h1>
-<h3 align="center">Crafting Code Creations 💻 | Innovating Solutions & Building Tomorrow</h3>
-
-<br>
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
-<br>
-<p align="center">
-    <h1 align="center">✩&emsp;Mukesh Kumar&emsp;✩</h1>
-</p>
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Have+a+look+around;My+profile+views!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
-</p>
-<br>
-<p align="center">
-    <img id="preview" src="https://komarev.com/ghpvc/?username=rajputmukesh748&label=Profile%20views&color=0e75b6&style=flat" alt="rajputmukesh748" /> 
-</p>
-
-<br>
-<br>
-<br>
-
-<p align="left">I am a passionate and experienced software developer with 5+ years of expertise in building engaging and robust applications. I possess a strong foundation in various programming languages and frameworks, including:</p>
-
-* **Android Development:** Kotlin, Java, Jetpack Compose
-* **Cross-Platform Development:** Flutter, Dart, Kotlin Multiplatform, Compose Multiplatform
-* **Web Development:** JavaScript, TypeScript, React.js, HTML, CSS
-* **Version Control:** Git, GitHub, GitLab, Bitbucket
-<br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajputmukesh748" alt="rajputmukesh748" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@rajputmukesh748" target="blank"><img src="https://img.shields.io/twitter/follow/@rajputmukesh748?logo=twitter&style=for-the-badge" alt="@rajputmukesh748" /></a> </p>
-
-- 💬 Ask me about **Android, Kotlin, JAVA, React Native, Jetpack Compose, Type Script, Java Script, Flutter, Dart, Compose Multiplatform**
-
-- 📫 How to reach me **rajputmukesh748@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@rajputmukesh748" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rajputmukesh748" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mukesh-kumar-701a24156/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mukesh-kumar-701a24156/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100007260767039" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100007260767039" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/rajput_saab_97/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rajput_saab_97/" height="30" width="40" /></a>
-</p>
-
-<br>
-<h3>My Activity</h3>
-<p><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajputmukesh748&" alt="Mukesh Rajput" /></p>
+# 💫 About Me:  [![](https://visitcount.itsvg.in/api?id=rajputmukesh748&icon=0&color=0)](https://visitcount.itsvg.in)
+👋 Hi, I'm Mukesh Kumar!<br><br>🔭 I’m currently working as an Android developer with MVI, Clean Architecture, MVVM, MVP, and MVC architectures.<br>👯 I’m looking to collaborate on Android, SwiftUI, and Node.js projects.<br>🤝 I’m looking for help with backend optimization in Node.js.<br>🌱 I’m currently learning SwiftUI, Angular, and Node.js.<br>💬 Ask me about Android architectures, design patterns, and Kotlin!<br>⚡ Fun fact: I love exploring new tech and building efficient solutions!
 
 
-<h3>Most Used Languages</h3>
-<a href="https://github.com/rajputmukesh748"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajputmukesh748&theme=dark&hide=html,css,cmake&layout=compact&langs_count=6&bg_color=101010&hide_title=true"></a>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100007260767039) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rajput_saab_97) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mukesh-kumar-701a24156) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rajputmukesh748) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14770070) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rajputmukesh748) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCQUbJH3RtJeIIjN8kuGBg_A) 
 
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 
-<h3>Leet Code</h3>
-<a href="https://leetcode.com/rajputmukesh748/"><img width="100%" src="https://leetcode.card.workers.dev/rajputmukesh748?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rajputmukesh748&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rajputmukesh748&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajputmukesh748&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rajputmukesh748&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<h3>My github stats</h3>
-<p align="start"> <img width="100%" src="https://github-readme-stats.vercel.app/api?username=rajputmukesh748&count_private=true&show_icons=true&theme=radical" /> </p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=rajputmukesh748&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<br>
+---
