@@ -1,170 +1,172 @@
-<!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ff6a00,100:0d1117&height=200&section=header&text=Mukesh%20Kumar&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Android%20%26%20Mobile%20Engineer%20%E2%80%A2%20Kotlin%20%E2%80%A2%20Clean%20Architecture&descAlignY=60&descSize=18" width="100%" alt="Mukesh Kumar"/>
+<img src="assets/naruto-demon-slayer-banner.png" width="100%" alt="Naruto × Demon Slayer — Mukesh Kumar"/>
 
-<a href="https://github.com/rajputmukesh748">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=FF6A00&center=true&vCenter=true&width=640&lines=Building+scalable+Android+apps+with+Kotlin;MVI+%C2%B7+MVVM+%C2%B7+Clean+Architecture;Exploring+SwiftUI%2C+Angular+%26+Node.js;Turning+ideas+into+efficient+software" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=850&color=FF7A18&center=true&vCenter=true&width=720&lines=Android+Developer+%7C+Mobile+Engineer;Kotlin+%E2%80%A2+SwiftUI+%E2%80%A2+React+Native;Clean+Architecture+%7C+MVI+%7C+MVVM;Building+apps+with+a+Shinobi+mindset" alt="Animated developer introduction"/>
 
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=rajputmukesh748&label=Profile+Views&color=ff6a00&style=flat-square&labelColor=0d1117)
-![Followers](https://img.shields.io/github/followers/rajputmukesh748?label=Followers&style=flat-square&color=ff6a00&labelColor=0d1117)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mukesh-kumar-701a24156)
-[![Medium](https://img.shields.io/badge/Medium-Read-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rajputmukesh748)
-[![YouTube](https://img.shields.io/badge/YouTube-Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@dev_no_limit)
+[![Profile Views](https://visitcount.itsvg.in/api?id=rajputmukesh748&icon=0&color=0)](https://visitcount.itsvg.in)
+[![GitHub followers](https://img.shields.io/github/followers/rajputmukesh748?style=flat&logo=github&label=Followers&color=ff7a18)](https://github.com/rajputmukesh748)
+[![GitHub stars](https://img.shields.io/github/stars/rajputmukesh748?affiliations=OWNER%2CCOLLABORATOR&style=flat&logo=github&label=Stars&color=14b8a6)](https://github.com/rajputmukesh748)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<table>
+<tr>
+<td width="62%" valign="top">
 
-I'm an **Android developer** who enjoys designing maintainable, well-structured mobile apps. I work daily with **Kotlin** and a range of architecture patterns, and I like turning complex requirements into clean, efficient solutions.
+## 👋 Hi, I'm Mukesh Kumar!
 
-| | |
-|---|---|
-| 🔭 **Working on** | Android apps using **MVI, Clean Architecture, MVVM, MVP and MVC** |
-| 🌱 **Learning** | SwiftUI, Angular and Node.js |
-| 👯 **Open to collaborate** | Android, SwiftUI and Node.js projects |
-| 🤝 **Looking for help with** | Backend optimization in Node.js |
-| 💬 **Ask me about** | Android architectures, design patterns and Kotlin |
-| ⚡ **Fun fact** | I love exploring new tech and building efficient solutions |
+**Android Developer · Mobile Engineer · Anime Enthusiast**
 
----
+A developer who loves building scalable, real-world applications, solving complex problems, and exploring new technologies — with the persistence of a Shinobi and the discipline of a Demon Slayer.
 
-## 🌐 Contribution Graph (3D)
+### 🥷 About Me
 
-<div align="center">
+- 🔭 Working as an Android developer with **MVI, Clean Architecture, MVVM, MVP and MVC**.
+- 👯 Looking to collaborate on **Android, SwiftUI and Node.js** projects.
+- 🤝 Interested in **backend optimization with Node.js**.
+- 🌱 Currently learning **SwiftUI, Angular and Node.js**.
+- 💬 Ask me about **Android architectures, design patterns and Kotlin**.
+- ⚡ I love exploring new tech and building efficient solutions.
 
-<!-- Generated automatically by .github/workflows/profile-3d.yml -->
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
+</td>
+<td width="38%" valign="top">
 
-</div>
+## 🎯 Currently Focused On
 
----
+- ✅ Android & Clean Architecture
+- ✅ SwiftUI & iOS Development
+- 🌱 Angular & Node.js
+- 🌱 Backend Optimization
+- 🌱 Scalable Applications
 
-## 🛠️ Tech Stack
+<img src="assets/shinobi-slayer-panel.png" width="100%" alt="Naruto and Demon Slayer inspired artwork"/>
 
-<details open>
-<summary><b>📱 Mobile</b></summary>
-<br/>
+</td>
+</tr>
+</table>
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Compose Multiplatform](https://img.shields.io/badge/Compose%20Multiplatform-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+## ⚔️ Tech Stack — My Jutsu
 
-</details>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<details open>
-<summary><b>⚙️ Backend &amp; Databases</b></summary>
-<br/>
+### 📱 Mobile Development
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=ktor&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Apollo GraphQL](https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollographql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<p align="center">
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=android,kotlin,swift,flutter,react&theme=dark" alt="Android Kotlin Swift Flutter React"/></a>
+</p>
 
-</details>
+**Also working with:** Kotlin Multiplatform, Compose Multiplatform, SwiftUI, React Native.
 
-<details open>
-<summary><b>🎨 Frontend</b></summary>
-<br/>
+### 🧩 Backend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+<p align="center">
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,graphql,firebase&theme=dark" alt="Java Spring Node Express GraphQL Firebase"/></a>
+</p>
 
-</details>
+**Also:** Ktor, Apollo GraphQL.
 
-<details open>
-<summary><b>🚀 DevOps, Tools &amp; Design</b></summary>
-<br/>
+### 🗄️ Database
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+<p align="center">
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark" alt="MySQL MongoDB Firebase"/></a>
+</p>
 
-</details>
+</td>
+<td width="50%" valign="top">
 
----
+### 🌐 Frontend
 
-## 📊 GitHub Analytics
+<p align="center">
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,angular&theme=dark" alt="HTML CSS Sass Bootstrap JavaScript TypeScript React Angular"/></a>
+</p>
 
-<div align="center">
+### ☁️ DevOps
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rajputmukesh748&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff6a00&icon_color=ff6a00&text_color=c9d1d9&ring_color=ff6a00&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajputmukesh748&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff6a00&text_color=c9d1d9" alt="Top languages" />
+<p align="center">
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,git,github,gitlab,bitbucket,heroku&theme=dark" alt="AWS Git GitHub GitLab Bitbucket Heroku"/></a>
+</p>
 
-<br/>
+### 🛠️ Tools & Design
 
-<img src="https://streak-stats.demolab.com?user=rajputmukesh748&hide_border=true&background=0d1117&stroke=30363d&ring=ff6a00&fire=ff6a00&currStreakLabel=ff6a00&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub streak" />
+<p align="center">
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postman,figma,ps,xd,sketch&theme=dark" alt="Postman Figma Photoshop XD Sketch"/></a>
+</p>
 
-</div>
+**Also:** SonarQube, Swagger, npm, Nodemon, Socket.IO, Apache Tomcat, JWT.
 
----
+</td>
+</tr>
+</table>
 
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rajputmukesh748&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub trophies" />
-
-<br/><br/>
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/rajputmukesh748)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/rajputmukesh748)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14770070)
-
-</div>
-
----
-
-## 🤝 Let's Connect
+## 🌐 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mukesh-kumar-701a24156)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rajputmukesh748)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@rajputmukesh748)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14770070)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rajputmukesh748)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/100007260767039)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rajput_saab_97)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@dev_no_limit)
-
-<br/>
-
-*Always learning, always shipping.* 🚀
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ff6a00,100:0d1117&height=100&section=footer" width="100%" alt=""/>
+## 🧠 Coding Profiles
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/rajputmukesh748)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/rajputmukesh748)
+
+</div>
+
+## 📊 Shinobi Records — GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/rajputmukesh748">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rajputmukesh748&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF7A18&icon_color=14B8A6&text_color=C9D1D9" alt="Mukesh's GitHub stats"/>
+</a>
+<a href="https://github.com/rajputmukesh748">
+  <img height="170" src="https://streak-stats.demolab.com?user=rajputmukesh748&hide_border=true&background=0D1117&ring=FF7A18&fire=EF4444&currStreakLabel=14B8A6&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak"/>
+</a>
+
+<a href="https://github.com/rajputmukesh748">
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajputmukesh748&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF7A18&text_color=C9D1D9" alt="Top languages"/>
+</a>
+
+<img src="https://github-profile-trophy.vercel.app/?username=rajputmukesh748&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub trophies"/>
+
+</div>
+
+## 🌊 Contribution Activity
+
+<div align="center">
+
+<!-- Generated automatically by .github/workflows/profile-3d.yml -->
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajputmukesh748&bg_color=0D1117&color=C9D1D9&line=14B8A6&point=FF7A18&area=true&hide_border=true" width="100%" alt="GitHub contribution activity"/>
+
+<img src="https://github-contributor-stats.vercel.app/api?username=rajputmukesh748&limit=5&theme=dark&combine_all_yearly_contributions=true" width="85%" alt="Top contributed repositories"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🍃 One mission. One commit. Continuous improvement.
+
+**Thanks for visiting my profile!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:991b1b,100:7c2d12&height=110&section=footer" width="100%" alt="Neon anime footer"/>
+
+</div>
