@@ -34,19 +34,9 @@
 
 <br/><br/>
 
-### 🔥 Contribution Heatmap
+### 🌐 3D Contribution View
 
-<img src="assets/heatmap.svg" width="100%" alt="Contribution heatmap for the last year"/>
-
-<br/>
-
-<details>
-<summary><b>🌐 3D contribution view</b></summary>
-<br/>
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
-
-</details>
+<img src="assets/contrib3d.svg" width="100%" alt="3D contribution view for the last year"/>
 
 <br/>
 

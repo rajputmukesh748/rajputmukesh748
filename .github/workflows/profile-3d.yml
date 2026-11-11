@@ -26,22 +26,16 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate stats, heatmap and header SVGs
+      - name: Generate profile SVGs (stats, 3D contribution view, header)
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python3 scripts/generate_profile.py "${{ github.repository_owner }}"
-
-      - name: Generate 3D contribution SVGs
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
 
       - name: Commit generated images
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A assets profile-3d-contrib
+          git add -A assets scripts/.profile_cache.json
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else

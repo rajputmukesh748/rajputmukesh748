@@ -323,6 +323,47 @@ def heatmap():
 </svg>'''
 
 
+# ------------------------------------------------------------------ 3D contribution view
+def shade(hexcol, k):
+    h = hexcol.lstrip("#")
+    r, g, b = (int(h[i:i + 2], 16) for i in (0, 2, 4))
+    return "#%02x%02x%02x" % (int(r * k), int(g * k), int(b * k))
+
+
+def contrib3d():
+    W, H = 1000, 290
+    pitch, w, rx, ry = 15, 11, 9, 11
+    dx, dy = 7, 7
+    X0, Y0 = 60, 258
+    base = ["#1b2342", "#7a3a8f", "#c4476f", C3, ORG]
+    boxes = ""
+    cols = (max(c for c, _ in cells) + 1) if cells else 53
+    for r in range(7):
+        for c in range(cols):
+            if (c, r) not in cells:
+                continue
+            d, lvl, n = cells[(c, r)]
+            h = 2 if n == 0 else 8 + min(n, 10) * 7
+            x = X0 + c * pitch + (6 - r) * rx
+            y = Y0 - (6 - r) * ry
+            col = base[lvl]
+            top = f"{x},{y-h} {x+w},{y-h} {x+w+dx},{y-h-dy} {x+dx},{y-h-dy}"
+            front = f"{x},{y} {x+w},{y} {x+w},{y-h} {x},{y-h}"
+            side = f"{x+w},{y} {x+w+dx},{y-dy} {x+w+dx},{y-h-dy} {x+w},{y-h}"
+            boxes += (f'<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="{c*0.025:.2f}s" dur="0.4s" fill="freeze"/>'
+                      f'<polygon points="{front}" fill="{shade(col, 0.82)}"/><polygon points="{side}" fill="{shade(col, 0.55)}"/>'
+                      f'<polygon points="{top}" fill="{col}"/><title>{n} contributions on {d}</title></g>')
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="{ORG}"/><stop offset="0.5" stop-color="{C3}"/><stop offset="1" stop-color="{C2}"/></linearGradient>
+<radialGradient id="glow" cx="0.5" cy="1" r="0.8"><stop offset="0" stop-color="{C3}" stop-opacity="0.22"/><stop offset="1" stop-color="{C3}" stop-opacity="0"/></radialGradient></defs>
+<rect x="1" y="1" width="{W-2}" height="{H-2}" rx="18" fill="{BG}" stroke="url(#b)" stroke-width="2"/>
+<rect x="1" y="1" width="{W-2}" height="{H-2}" rx="18" fill="url(#glow)"/>
+<text x="26" y="34" fill="#e8ecff" font-size="15" font-weight="700" {SANS}>3D contribution view</text>
+<text x="{W-26}" y="34" text-anchor="end" fill="#9fb0d9" font-size="13" {SANS}>{total_year:,} contributions in the last year</text>
+{boxes}
+</svg>'''
+
+
 # ------------------------------------------------------------------ footer
 def footer():
     return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 140" width="1000" height="140" preserveAspectRatio="none">
@@ -334,6 +375,6 @@ def footer():
 
 
 for fname, fn in [("header.svg", header), ("about.svg", about), ("stack.svg", stack),
-                  ("stats.svg", stats), ("heatmap.svg", heatmap), ("footer.svg", footer)]:
+                  ("stats.svg", stats), ("contrib3d.svg", contrib3d), ("footer.svg", footer)]:
     write(fname, fn())
 print(f"contrib={total_year} repos={n_repos} stars={stars} followers={followers} streak={cur}/{longest} langs={[l for l,_ in top_langs]}")
