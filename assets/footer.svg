@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 140" width="1000" height="140" preserveAspectRatio="none">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff9a5a"/><stop offset="0.5" stop-color="#ff7eb3"/><stop offset="1" stop-color="#c4a3ff"/></linearGradient></defs>
+<path fill="url(#g)" fill-opacity="0.35"><animate attributeName="d" dur="9s" repeatCount="indefinite" values="M0 70 Q250 20 500 70 T1000 70 V140 H0Z;M0 70 Q250 120 500 70 T1000 70 V140 H0Z;M0 70 Q250 20 500 70 T1000 70 V140 H0Z"/></path>
+<path fill="url(#g)" fill-opacity="0.6"><animate attributeName="d" dur="6s" repeatCount="indefinite" values="M0 95 Q250 55 500 95 T1000 95 V140 H0Z;M0 95 Q250 135 500 95 T1000 95 V140 H0Z;M0 95 Q250 55 500 95 T1000 95 V140 H0Z"/></path>
+<text x="500" y="124" text-anchor="middle" fill="#ffffff" font-size="15" letter-spacing="4" font-family="'Segoe UI',Arial,sans-serif">THANKS FOR VISITING</text>
+</svg>

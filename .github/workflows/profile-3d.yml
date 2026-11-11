@@ -1,4 +1,4 @@
-name: Generate 3D Profile
+name: Update Profile
 
 on:
   schedule:
@@ -8,22 +8,28 @@ on:
     branches: [main]
     paths:
       - ".github/workflows/profile-3d.yml"
+      - "scripts/generate_profile.py"
 
 permissions:
   contents: write
 
 concurrency:
-  group: profile-3d
+  group: profile-update
   cancel-in-progress: true
 
 jobs:
   build:
-    name: Build 3D contribution graph
+    name: Generate profile images
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
+      - name: Generate stats, heatmap and header SVGs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/generate_profile.py "${{ github.repository_owner }}"
 
       - name: Generate 3D contribution SVGs
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
@@ -35,11 +41,11 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A profile-3d-contrib
+          git add -A assets profile-3d-contrib
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "chore: update 3D contribution graph"
+            git commit -m "chore: refresh profile images"
             git pull --rebase origin "${GITHUB_REF_NAME}"
             git push
           fi
